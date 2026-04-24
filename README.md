@@ -1,4 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/5TmsgegP)
+
 # web-jsp-jdbc-mvc
 
 # University Course Registration System
@@ -8,7 +9,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-A Spring MVC web application for managing student course registrations with authentication, course management, and logging features.
+A Spring MVC web application for managing student course registrations with authentication, course management, and
+logging features.
 
 ## Features
 
@@ -29,7 +31,8 @@ A Spring MVC web application for managing student course registrations with auth
 ## Installation
 
 ### Prerequisites
-- Java JDK 8+
+
+- Java JDK 17+
 - Apache Tomcat 9+
 - MySQL 5.7+
 - Maven 3.6+
@@ -37,11 +40,13 @@ A Spring MVC web application for managing student course registrations with auth
 ### Setup Instructions
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/university-registration-system.git
+
+```bash
+   git clone https://github.com/sivothajan/university-registration-system.git
    cd university-registration-system
+```
 
-
+```text
 src/
 ├── main/
 │   ├── java/
@@ -57,3 +62,4 @@ src/
 │       │   └── views/                # JSP pages
 │       └── static/                   # CSS/JS assets
 ├── test/                             # Test cases
+```
