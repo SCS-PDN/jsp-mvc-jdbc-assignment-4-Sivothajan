@@ -42,7 +42,7 @@ logging features.
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/sivothajan/university-registration-system.git
+   git clone https://github.com/SCS-PDN/jsp-mvc-jdbc-assignment-4-Sivothajan.git
    cd university-registration-system
 ```
 
